@@ -1,1 +1,2 @@
 # PSCFeatureProcess
+This database is systematically enhanced from the FAIR-compliant repository originally established by T. Jesper Jacobsson et al. Key upgrades include the integration of one-hot encoding for categorical feature standardization and Word2Vec embeddings for semantic vectorization. These refinements strengthen data interpretability through embedded semantic modeling while improving structural coherence and machine learning compatibility via advanced feature coupling strategies.
